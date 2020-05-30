@@ -1,6 +1,6 @@
 {
   "name": "parkinson-predictor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "homepage": "https://iam-zain.github.io/parkinson-predictor",
   "dependencies": {
