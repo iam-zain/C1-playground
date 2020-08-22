@@ -1,3 +1,47 @@
+/* global.css */
+
 body {
-  color: red;
+  --c1: #e2b2fa;
+  --c2: #cf88f8;
+  --c3: #b85ff3;
+  --c4: #9b37e8;
+  --c5: #7d13db;
+  --c6: #6513ac;
+  --c7: #4c147d;
+  --c8: #39145a;
+  --c9: #2b1045;
+  --c10: #1d112c;
+
+  --z-red: #f04864;
+  --z-green: #2fc25b;
+  --z-bgreen: #13c2c2;
+  --z-yellow: #facc14;
+  --z-blue: #1890ff;
+
+  --hr: hsla(0, 0%, 0%, 0.2);
+
+  background-color: var(--bg);
+}
+
+body.dark {
+  -webkit-font-smoothing: antialiased;
+
+  --c1: #1d112c;
+  --c2: #2b1045;
+  --c3: #39145a;
+  --c4: #4c147d;
+  --c6: #7d13db;
+  --c7: #9b37e8;
+  --c5: #6513ac;
+  --c8: #b85ff3;
+  --c9: #cf88f8;
+  --c10: #e2b2fa;
+
+  --z-red: #f04864;
+  --z-green: #2fc25b;
+  --z-yellow: #facc14;
+  --z-bgreen: #13c2c2;
+  --z-blue: #1890ff;
+
+  --hr: hsla(0, 0%, 100%, 0.2);
 }
