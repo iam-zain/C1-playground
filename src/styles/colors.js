@@ -9,8 +9,6 @@ export default {
   c8: "var(--c8)",
   c9: "var(--c9)",
   c10: "var(--c10)",
-  c1: "var(--c1)",
-  c1: "var(--c1)",
   red: "--z-red",
   green: "--z-green",
   bgreen: "--z-bgreen",
